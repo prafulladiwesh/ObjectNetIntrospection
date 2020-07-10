@@ -23,6 +23,8 @@ Network architectures. The main focus is to introspect the model architecture to
     * 50 object rotations (Rotations were uniformly distributed on a sphere)
     
     ![Image Comparison](https://github.com/prafulladiwesh/ObjectNetIntrospection/blob/master/Images/ObjectNet_ImageNet.png)
+    
+    Original [ObjectNet Paper!](https://github.com/prafulladiwesh/ObjectNetIntrospection/blob/master/Objectnet-a-large-scale-bias-controlled-dataset-for-pushing-the-limits-of-object-recognition-models.pdf) can be found here.
 
 ### Goal of the project:
 
@@ -32,8 +34,14 @@ Network architectures. The main focus is to introspect the model architecture to
 
 ### Implementation Steps:
 
+  1. Manual introspection of the (mis)classification images using Saliency Maps for understanding the pattern.
+  2. Identifying object/class location in the Image using segmentation methodologies.
+  3. Color Feature Introspection & Image Enhancement.
+  4. Check Rotation and Translation invariance.
+
 # Individual Contribution:
 
-
-
-
+  1. Manual Interospection to find the pattern and rule in the (mis)classification.
+  2. Find potential hypothesis out of the pattern
+  3. Color Feature Introspection & Image Enhancement.
+  4. Rotation and Translation Invariance check.
