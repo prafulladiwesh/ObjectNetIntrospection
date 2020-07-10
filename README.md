@@ -45,3 +45,6 @@ Network architectures. The main focus is to introspect the model architecture to
   2. Find potential hypothesis out of the pattern
   3. Color Feature Introspection & Image Enhancement.
   4. Rotation and Translation Invariance check.
+  
+  
+### Note : This is an ongoing project. Any changes done will be pushed in this repository. 
