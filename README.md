@@ -6,7 +6,7 @@ Network architectures. The main focus is to introspect the model architecture to
 
 ### Motivation:
 
-    ![ObjectNet Performance Drop Image](https://github.com/prafulladiwesh/ObjectNetIntrospection/blob/master/Images/PerformanceDrop.png)
+  ![ObjectNet Performance Drop Image](https://github.com/prafulladiwesh/ObjectNetIntrospection/blob/master/Images/PerformanceDrop.png)
   
   With the new ObjectNet dataset there is 40-45% drop in the performance of the pretrained SOTA Neural Network Architectures which is trained on ImageNet data. 
 
@@ -22,7 +22,7 @@ Network architectures. The main focus is to introspect the model architecture to
     * 3 viewpoints (top, angled at 45 degrees, and side)
     * 50 object rotations (Rotations were uniformly distributed on a sphere)
     
-    ![Result Image](https://github.com/prafulladiwesh/ObjectNetIntrospection/blob/master/Images/ObjectNet_ImageNet.png)
+    ![Image Comparison](https://github.com/prafulladiwesh/ObjectNetIntrospection/blob/master/Images/ObjectNet_ImageNet.png)
 
 ### Goal of the project:
 
