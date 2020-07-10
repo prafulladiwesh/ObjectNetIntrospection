@@ -24,7 +24,7 @@ Network architectures. The main focus is to introspect the model architecture to
     
     ![Image Comparison](https://github.com/prafulladiwesh/ObjectNetIntrospection/blob/master/Images/ObjectNet_ImageNet.png)
     
-    Original [ObjectNet Paper!](https://github.com/prafulladiwesh/ObjectNetIntrospection/blob/master/Objectnet-a-large-scale-bias-controlled-dataset-for-pushing-the-limits-of-object-recognition-models.pdf) can be found here.
+    Original [ObjectNet Paper](https://objectnet.dev/objectnet-a-large-scale-bias-controlled-dataset-for-pushing-the-limits-of-object-recognition-models.pdf) can be found here.
 
 ### Goal of the project:
 
